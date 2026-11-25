@@ -1,0 +1,7 @@
+topic,field,year,description
+Deep Learning,Artificial Intelligence,2023,Neural networks with multiple processing layers
+Generative AI,Artificial Intelligence,2024,AI models capable of generating new content
+RAG,Artificial Intelligence,2024,Combines information retrieval with language generation
+CNN,Medical Imaging,2022,Convolutional networks used for image classification
+LSTM,Signal Processing,2021,Recurrent neural networks for sequential data
+Transformer,Natural Language Processing,2023,Attention-based neural network architecture
