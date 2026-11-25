@@ -1,0 +1,23 @@
+# LLM integration
+ollama
+langchain==1.0.8
+langchain-core==1.0.7
+langchain-ollama==1.0.0
+
+# Agent development
+langgraph==1.0.3
+langgraph-prebuilt==1.0.8
+crewai
+
+# RAG and document processing
+pypdf
+langchain-text-splitters
+langchain-chroma
+chromadb
+
+# Application development
+streamlit
+
+# Data processing
+pandas
+numpy
