@@ -32,7 +32,7 @@ def calculator(operation, numbers):
 # Tool 2: Search the research dataset
 def search_dataset(query):
 
-    file_path = Path(__file__).parent / "data" / "research_data.csv"
+    file_path = Path(__file__).parent / "research_data.csv"
 
     try:
         results = []
@@ -58,7 +58,7 @@ def search_dataset(query):
 # Tool 3: Retrieve information about a research topic
 def retrieve_information(topic):
 
-    file_path = Path(__file__).parent / "data" / "research_data.csv"
+    file_path = Path(__file__).parent / "research_data.csv"
 
     try:
         with open(file_path, "r", encoding="utf-8") as file:
